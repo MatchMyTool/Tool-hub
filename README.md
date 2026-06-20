@@ -25,3 +25,6 @@ Navigate to the `backend/` folder and follow Java backend setup instructions.
 - Set up the frontend and backend independently
 - Ensure both services are running for full-stack development
 - Refer to individual README files in each folder for specific setup steps
+ ## 
+ -just ensure the git and github
+ 
