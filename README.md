@@ -27,4 +27,5 @@ Navigate to the `backend/` folder and follow Java backend setup instructions.
 - Refer to individual README files in each folder for specific setup steps
  ## 
  -just ensure the git and github
- 
+ ##
+ -just ensure the github by sangram
