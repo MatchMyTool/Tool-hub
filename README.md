@@ -28,4 +28,4 @@ Navigate to the `backend/` folder and follow Java backend setup instructions.
  ## 
  -just ensure the git and github
  ##
- -just ensure the github by 
+ -just ensure the github by sangram form oddisha
